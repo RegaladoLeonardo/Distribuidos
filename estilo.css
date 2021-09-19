@@ -1,0 +1,21 @@
+
+*{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body, html{
+
+    background: url(/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment:local;
+}
+
+#BinarioIp{
+    width: 22rem;
+}
+
+
+#N, #IP, #BinarioIp, #mascarai, #clases{
+    background-color: transparent;
+}
